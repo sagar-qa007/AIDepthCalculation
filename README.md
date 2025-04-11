@@ -112,13 +112,13 @@ The script will automatically choose the best available device:
 ## 🎥 Demo Videos
 
 ### 🔹 Depth Estimation
-[▶️ Watch Demo 1](demo/compressed/Demo1DepthCheck.mov)
+[▶️ Watch Demo 1](demo/compressed/Demo1DepthCheck.webm)
 
 ### 🔹 Distance From Camera
-[▶️ Watch Demo 2](demo/compressed/Demo2CalculateDistance.mov)
+[▶️ Watch Demo 2](demo/compressed/Demo2CalculateDistance.webm)
 
 ### 🔹 Distance Between Two Objects
-[▶️ Watch Demo 3](demo/compressed/Demo3CalculateTwoObjectDistance.mov)
+[▶️ Watch Demo 3](demo/compressed/Demo3CalculateTwoObjectDistance.webm)
 
 ---
 
