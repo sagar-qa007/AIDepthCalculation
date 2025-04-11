@@ -109,6 +109,19 @@ The script will automatically choose the best available device:
 
 ---
 
+## 🎥 Demo Videos
+
+### 🔹 Depth Estimation
+[▶️ Watch Demo 1](demo/Demo1DepthCheck.mov)
+
+### 🔹 Distance From Camera
+[▶️ Watch Demo 2](demo/Demo2CalculateDistance.mov)
+
+### 🔹 Distance Between Two Objects
+[▶️ Watch Demo 3](demo/Demo3CalculateTwoObjectDistance.mov)
+
+---
+
 ## 👨‍💻 Author
 
 Made with ❤️ by Sagar Khalasi
